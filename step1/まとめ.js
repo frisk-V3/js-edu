@@ -7,9 +7,9 @@ function registerEntry(name, detail) {
 }
 
 const targetList = [
-  { name: "Light", detail: "default" },
+  { name: "月", detail: "default" },
   { name: "L", detail: "default" },
-  { name: "Near", detail: "observation" }
+  { name: "ニア", detail: "observation" }
 ];
 
 console.log("--- Record List ---");
